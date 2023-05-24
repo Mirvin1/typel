@@ -1,0 +1,11 @@
+{
+  "name": "typel",
+  "version": "0.0.2",
+  "description": "",
+  "main": "typel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mirvin01",
+  "license": "ISC"
+}
